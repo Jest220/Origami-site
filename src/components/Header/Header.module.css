@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    border-radius: 0 0 20px 20px;
+    color: white;
+    background: #4977aa;
+    width: 960px;
+    min-height: 100px;
+    margin: 0 auto 40px;
+}
+
+.header img {
+    height: 75px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 20px
+}
